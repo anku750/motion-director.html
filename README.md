@@ -121,7 +121,7 @@
         <!-- AdSense Header Ad -->
         <ins class="adsbygoogle"
              style="display:block"
-             data-ad-client="ca-pub-XXXXXXXXXX"
+             data-ad-client="ca-pub-4319423225607012"
              data-ad-slot="1234567890"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
@@ -171,7 +171,7 @@
              style="display:block; text-align:center;"
              data-ad-layout="in-article"
              data-ad-format="fluid"
-             data-ad-client="ca-pub-XXXXXXXXXX"
+             data-ad-client="ca-pub-4319423225607012"
              data-ad-slot="9876543210"></ins>
         <script>
              (adsbygoogle = window.adsbygoogle || []).push({});
@@ -221,7 +221,7 @@
         <!-- AdSense Bottom Ad -->
         <ins class="adsbygoogle"
              style="display:block"
-             data-ad-client="ca-pub-XXXXXXXXXX"
+             data-ad-client="ca-pub-4319423225607012"
              data-ad-slot="5678901234"
              data-ad-format="auto"
              data-full-width-responsive="true"></ins>
