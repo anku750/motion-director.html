@@ -65,7 +65,7 @@
     .meta{color:var(--muted);font-size:13px;margin-bottom:12px}
     .toc{background:linear-gradient(90deg,rgba(6,182,212,0.06),rgba(124,58,237,0.03));padding:12px;border-radius:10px}
     .toc a{display:block;color:var(--accent2);text-decoration:none;padding:6px 0}
-    .content{margin-top:18px;line-height:1.8;color:#07323a}
+    .content{margin-top:18px;line-height:1.8;color:#07003a}
     .section{margin:26px 0}
     .section h2{margin:0 0 10px 0;font-size:20px}
     
