@@ -58,8 +58,8 @@
     .title{font-size:20px;font-weight:1200}
     .subtitle{font-size:13px;color:var(--muted)}
     .card{background:var(--card);padding:22px;border-radius:var(--radius);box-shadow:0 8px 30px rgba(4,20,30,0.06)}
-    .hero{display:grid;grid-template-columns:1fr 260px;gap:18px;align-items:start}
-    @media(max-width:920px){.hero{grid-template-columns:1fr}}
+    .hero{display:grid;grid-template-columns:1fr 1060px;gap:18px;align-items:start}
+    @media(max-width:1920px){.hero{grid-template-columns:1fr}}
     .hero .main-img{width:100%;height:260px;object-fit:cover;border-radius:10px}
     h1{margin:0 0 6px 0;font-size:26px}
     .meta{color:var(--muted);font-size:13px;margin-bottom:12px}
