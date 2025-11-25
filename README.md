@@ -36,8 +36,8 @@
   </script>
 
   <!-- AdSense placeholder (replace publisher id) -->
-  <!-- NOTE: change ca-pub-XXXXXXXXXX to your AdSense ID -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXX" crossorigin="anonymous"></script>
+  <!-- NOTE: change ca-pub- 4319423225607012 to your AdSense ID -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4319423225607012" crossorigin="anonymous"></script>
 
   <style>
     :root{
