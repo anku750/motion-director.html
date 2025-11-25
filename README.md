@@ -55,7 +55,7 @@
     .wrap{max-width:var(--maxw);width:100%}
     header{display:flex;align-items:center;gap:14px;margin-bottom:16px}
     .logo{width:60px;height:60px;border-radius:12px;background:linear-gradient(135deg,var(--accent1),var(--accent2));display:flex;align-items:center;justify-content:center;color:#012;font-weight:800}
-    .title{font-size:20px;font-weight:800}
+    .title{font-size:20px;font-weight:900}
     .subtitle{font-size:13px;color:var(--muted)}
     .card{background:var(--card);padding:22px;border-radius:var(--radius);box-shadow:0 8px 30px rgba(4,20,30,0.06)}
     .hero{display:grid;grid-template-columns:1fr 260px;gap:18px;align-items:start}
