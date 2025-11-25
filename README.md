@@ -107,7 +107,7 @@
       <div class="hero">
         <img class="main-img" src="https://images.unsplash.com/photo-1558089687-b23f0c311e62?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Motion detector technology" />
         <aside class="toc">
-          <div style="font-weight:800;margin-bottom:8px">इस पोस्ट में</div>
+          <div style="font-weight:1500;margin-bottom:8px">इस पोस्ट में</div>
           <a href="#sec1">1. Motion Detector क्या है?</a>
           <a href="#sec2">2. कैसे काम करता है</a>
           <a href="#sec3">3. प्रमुख प्रकार</a>
